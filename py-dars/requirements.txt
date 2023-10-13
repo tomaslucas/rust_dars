@@ -1,1 +1,1 @@
-nbstripout # https:/githb.com/kynan/nbstripout
+nbstripout # https:/github.com/kynan/nbstripout
